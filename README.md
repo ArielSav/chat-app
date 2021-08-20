@@ -14,7 +14,7 @@
 npm install
 ```
 
-3. Open CMD\Terminal and navigate to front-react directory.
+3. Open CMD\Terminal and navigate to the client directory.
 4. Run the code below:
 
 ```
@@ -30,7 +30,7 @@ npm install
 node server.js
 ```
 
-3. Open CMD\Terminal and navigate to front-react directory.
+3. Open CMD\Terminal and navigate to the client directory.
 4. Run the code below:
 
 ```
